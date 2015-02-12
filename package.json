@@ -1,6 +1,6 @@
 {
   "name": "writex-tvooo-article",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An article template for WriTeX using Calluna and Source Sans Pro typefaces",
   "main": "index.js",
   "repository": {
