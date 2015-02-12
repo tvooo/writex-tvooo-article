@@ -32,6 +32,7 @@
 
 <% if(bibtex) { %>
 \usepackage[sorting=nyt,style=authoryear,dashed=false]{biblatex}
+\DeclareNameAlias{sortname}{last-first}
 \bibliography{references}
 <% } %>
 
